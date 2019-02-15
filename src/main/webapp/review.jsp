@@ -17,7 +17,7 @@ function Reply(bnum) {//댓글눌렀을때 다이얼로그 보여주는 함수
 	
 	return false;
 }
-
+    
 function comment() {//대댓글 등록시 처리함수
 	
 	if ($("#content2").val() == "") {
