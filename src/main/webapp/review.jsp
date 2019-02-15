@@ -8,7 +8,7 @@
 <script type="text/javascript" src="resources/js/jquery.min.js"></script>
 <script type="text/javascript">
 
-
+  
 function Reply(bnum) {//댓글눌렀을때 다이얼로그 보여주는 함수
  	$("#updateDialog").css('display', 'none');
 	var num = "#" + bnum;
